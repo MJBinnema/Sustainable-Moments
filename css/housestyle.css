@@ -1,0 +1,86 @@
+
+/* donkergroen - #105c4c*/
+.p-donkergroen, .h-donkergroen{
+  color: #105c4c;
+}
+
+.bg-donkergroen{
+  background-color: #105c4c;
+}
+
+
+/* lichtgroen - #82c5a0*/
+.p-lichtgroen, .h-lichtgroen{
+  color: #82c5a0;
+}
+
+.bg-lichtgroen{
+  background-color: #82c5a0;
+}
+
+/* donkerrood nu roze - #e9cac8 */
+.p-rood, .h-rood{
+  color: #e9cac8;
+}
+
+.bg-rood{
+  background-color: #e9cac8;
+}
+
+/* aarde kleur - #dea769  */
+.p-aarde, .h-aarde{
+  color: #dea769;
+}
+
+.bg-aarde{
+  background-color: #dea769;
+}
+
+
+/* rood tot donkergroen*/
+.a-roodgroen, .a-roodgroen:focus{
+  color: #e9cac8  !important;
+}
+.a-roodgroen:hover, .a-roodgroen:active{ 
+  color: #105c4c !important;
+  text-decoration:none;
+}
+
+.btn-roodgroen, .btn-roodgroen:focus{
+  color: #fff !important;
+  background-color: #e9cac8 !important;
+}
+.btn-roodgroen:hover, .btn-roodgroen:active{ 
+  color: #fff !important;
+  background-color: #105c4c !important;
+}
+
+
+/* donkergroen tot rood*/
+.btn-groenrood, .btn-groenrood:focus{
+  color: #fff !important;
+  background-color: #105c4c !important;
+}
+.btn-groenrood:hover, .btn-groenrood:active{ 
+  color: #fff !important;
+  background-color: #e9cac8 !important;
+}
+
+.a-groenrood, .a-groenrood:focus{
+  color: #105c4c !important;
+}
+.a-groenrood:hover, .a-groenrood:active { 
+  color: #e9cac8 !important;
+  text-decoration:none;
+}
+
+
+/* lichtgroen tot rood*/
+.btn-lichtgroenrood, .btn-lichtgroenrood:focus{
+  color: #fff !important;
+  background-color: #82c5a0 !important;
+}
+.btn-lichtgroenrood:hover, .btn-ichtgroenrood:active{ 
+  color: #fff !important;
+  background-color: #e9cac8 !important;
+}
